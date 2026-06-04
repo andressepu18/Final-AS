@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="MicroservicioFasecolda/CapaDatos/Fasecolda.CapaDatos.csproj" />
+  <Project Path="MicroservicioFasecolda/CapaNegocio/Fasecolda.CapaNegocio.csproj" />
+  <Project Path="MicroservicioFasecolda/CapaPresentacion/Fasecolda.CapaPresentacion.csproj" />
+  <Project Path="MicroservicioValidaciones/CapaDatos/Validaciones.CapaDatos.csproj" />
+  <Project Path="MicroservicioValidaciones/CapaDatosExternos/Validaciones.CapaDatosExternos.csproj" />
+  <Project Path="MicroservicioValidaciones/CapaNegocio/Validaciones.CapaNegocio.csproj" />
+  <Project Path="MicroservicioValidaciones/CapaPresentacion/Validaciones.CapaPresentacion.csproj" />
+</Solution>
