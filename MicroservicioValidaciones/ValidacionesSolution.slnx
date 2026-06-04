@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Validaciones.CapaNegocio/Validaciones.CapaNegocio.csproj" />
+  <Project Path="Validaciones.CapaDatos/Validaciones.CapaDatos.csproj" />
+  <Project Path="Validaciones.CapaDatosExternos/Validaciones.CapaDatosExternos.csproj" />
+  <Project Path="Validaciones.CapaPresentacion/Validaciones.CapaPresentacion.csproj" />
+</Solution>
