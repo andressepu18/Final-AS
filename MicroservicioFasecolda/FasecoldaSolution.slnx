@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Fasecolda.CapaNegocio/Fasecolda.CapaNegocio.csproj" />
+  <Project Path="Fasecolda.CapaDatos/Fasecolda.CapaDatos.csproj" />
+  <Project Path="Fasecolda.CapaPresentacion/Fasecolda.CapaPresentacion.csproj" />
+</Solution>
